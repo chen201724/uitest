@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "datahub-nodejs-sdk": "2",
-    "macaca-playwright": "1"
+    "macaca-playwright": "2"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.18.2",
